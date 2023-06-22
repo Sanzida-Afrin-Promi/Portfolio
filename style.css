@@ -234,12 +234,12 @@ width: 100%;
 }
 
 .services-list div{
-    background: #717070;
+    background: #262626;
     padding: 40px;
     font-size: 18px;
     font-weight: 300;
     border-radius: 10px;
-    color: #080808;
+    color: #f1f7f8;
     transition: background 0.5s,transform 0.5s;
    
 }
